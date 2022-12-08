@@ -2,7 +2,7 @@
   "name": "pong-game",
   "version": "1.0.0",
   "description": "Classic Pong Game, implemented with pure JavaScript in NodeJS and played in terminal.",
-  "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

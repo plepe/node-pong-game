@@ -13,3 +13,10 @@ Classic Pong Game, implemented with pure JavaScript in NodeJS and played in term
 ```
 node index.js
 ```
+
+# Installation
+```
+sudo npm install -g
+```
+
+Run with: `pong-game`
