@@ -1,0 +1,18 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "Classic Pong Game, implemented with pure JavaScript in NodeJS and played in terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plepe/node-pong-game.git"
+  },
+  "author": "Eric Breno <eric.santos@ccc.ufcg.edu.br>",
+  "bugs": {
+    "url": "https://github.com/plepe/node-pong-game/issues"
+  },
+  "homepage": "https://github.com/plepe/node-pong-game#readme"
+}
