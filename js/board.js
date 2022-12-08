@@ -64,8 +64,9 @@ const makeBoard = (_xTab, _yTab, _playerSideSize) => {
         printTab() {
             const scoreStr = `  >> SCORE: ${score1} x ${score2} <<  `;
             const tabStr = tabMatrix.map(line => ` ${line.join('')} `).join('\n');
+            const borderStr = ' ' + spawnList(xTab).map(x => tab.borderChar).join('')
 
-            print(`\n${scoreStr}\n\n${tabStr}`);
+            print(`\n${scoreStr}\n${borderStr}\n${tabStr}\n${borderStr}`);
         },
 
         /**
