@@ -3,15 +3,15 @@
         "defaultCharTab": " ",
         "player1Char": ")",
         "player2Char": "(",
-        "player1CharCollision": "❚",
-        "player2CharCollision": "❚"
+        "player1CharCollision": "}",
+        "player2CharCollision": "{"
     },
     "ball": {
-        "downLeft": "▖",
-        "downRight": "▗",
-        "upLeft": "▘",
-        "upRight": "▝",
-        "center": "-"
+        "downLeft": "O",
+        "downRight": "O",
+        "upLeft": "O",
+        "upRight": "O",
+        "center": "O"
     },
     "game": {
         "width": 40,
