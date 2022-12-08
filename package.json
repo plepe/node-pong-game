@@ -4,7 +4,7 @@
   "description": "Classic Pong Game, implemented with pure JavaScript in NodeJS and played in terminal.",
   "bin": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
